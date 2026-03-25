@@ -1,3 +1,5 @@
 body {
-    background-image: url("mooi.jpeg");
+    background-image: url("mooi.png");
+    background-size: contain;
+    background-repeat: repeat-y;
 }
