@@ -25,11 +25,11 @@ const puzzles = [{
 },{
     puzzleName: "Ark Nova",
     puzzleAnswer: ["04477"],
-    puzzleHint: "Longitude: 4.493104"
-},{
-    puzzleName: "Paper on Paper",
-    puzzleAnswer: ["523"],
     puzzleHint: "Goed gedaan! Jullie hebben het slot bijna open. Daarvoor hebben jullie wel de grote gouden sleutel nodig. Deze moet je brengen naar de blek waar de coordinaten naar verwijzen. Alleen dan kun je de echte sleutel vinden om het laatste slot te openen. Succes!"
+},{
+    puzzleName: "Secret Message",
+    puzzleAnswer: ["523"],
+    puzzleHint: "Longitude: 4.493104"
 }
 ]
 
