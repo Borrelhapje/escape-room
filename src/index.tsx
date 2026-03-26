@@ -21,11 +21,11 @@ const puzzles = [{
 {
     puzzleName: "Crossword",
     puzzleAnswer: ["999", "voerdrienegensin"],
-    puzzleHint: "Jullie lieve poezenkindjes zitten heerlijk in hun eigen Hortus Inclusus. Maar hebben jullie al onder Saartje gekeken?"
+    puzzleHint: "Goed gedaan! Jullie hebben het slot bijna open. Daarvoor hebben jullie wel de grote gouden sleutel nodig. Deze moet je brengen naar de blek waar de coordinaten naar verwijzen. Alleen dan kun je de echte sleutel vinden om het laatste slot te openen. Succes!"
 },{
     puzzleName: "Ark Nova",
     puzzleAnswer: ["04477"],
-    puzzleHint: "Goed gedaan! Jullie hebben het slot bijna open. Daarvoor hebben jullie wel de grote gouden sleutel nodig. Deze moet je brengen naar de blek waar de coordinaten naar verwijzen. Alleen dan kun je de echte sleutel vinden om het laatste slot te openen. Succes!"
+    puzzleHint: "Jullie lieve poezenkindjes zitten heerlijk in hun eigen Hortus Inclusus. Maar hebben jullie al onder Saartje gekeken?"
 },{
     puzzleName: "Secret Message",
     puzzleAnswer: ["523"],
